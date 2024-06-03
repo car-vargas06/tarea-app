@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 100;
+}
+h1{
+    text-align: center;
+}
+.maincontainer{
+    text-align: center;
+    width: 700px;
+}
+.title{
+    margin-bottom: 20px;
+}
+.form-control{
+    width:600px; 
+    max-width: 180%; 
+    display: block; 
+}
+.btn-outline-info{
+    padding: 10px; 
+}
+.list-group{
+    list-style-type: none; 
+    padding: 10px; 
+    margin: 0; 
+}
+
+.btn-outline-danger{
+    margin-left:570px;
+    position:fixed
+}
+
